@@ -1,0 +1,27 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "downlevelIteration": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": [
+            "es2016",
+            "es6"
+        ],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitReturns": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "removeComments": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "target": "es5"
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
