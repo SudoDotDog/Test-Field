@@ -1,5 +1,5 @@
 import Axios from 'axios';
-import cred from './cred';
+import cred from '../cred';
 
 ((async () => {
     try {
